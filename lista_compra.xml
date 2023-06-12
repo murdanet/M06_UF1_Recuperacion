@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<llistacompra>
+    <articulo>
+        <descripcion>CocaCola</descripcion>
+        <cantidad>2.0</cantidad>
+        <unitad>1</unitad>
+        <seccion>Bebidas</seccion>
+        <precio>4.75</precio>
+    </articulo>
+    <articulo>
+        <descripcion>Jamon dulce</descripcion>
+        <cantidad>1.0</cantidad>
+        <unitad>1</unitad>
+        <seccion>Embutidos</seccion>
+        <precio>2.9</precio>
+    </articulo>
+    <articulo>
+        <descripcion>Yogurt Griego </descripcion>
+        <cantidad>1.0</cantidad>
+        <unitad>2</unitad>
+        <seccion>Lacteos</seccion>
+        <precio>4.0</precio>
+    </articulo>
+    <articulo>
+        <descripcion>Libro Aprende a programar para dummies</descripcion>
+        <cantidad>1.0</cantidad>
+        <unitad>1</unitad>
+        <seccion>Libros</seccion>
+        <precio>70.0</precio>
+    </articulo>
+    <articulo>
+        <descripcion>Superdog Album</descripcion>
+        <cantidad>1.0</cantidad>
+        <unitad>1</unitad>
+        <seccion>Souvenirs</seccion>
+        <precio>15.0</precio>
+    </articulo>
+</llistacompra>
